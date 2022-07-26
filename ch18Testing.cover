@@ -1,0 +1,10 @@
+mode: set
+gotour/ch18Testing/main.go:3.14,5.2 0 0
+gotour/ch18Testing/main.go:9.27,11.26 1 1
+gotour/ch18Testing/main.go:15.2,16.9 2 1
+gotour/ch18Testing/main.go:26.2,27.15 2 1
+gotour/ch18Testing/main.go:11.26,13.3 1 1
+gotour/ch18Testing/main.go:17.12,18.13 1 1
+gotour/ch18Testing/main.go:19.14,20.13 1 1
+gotour/ch18Testing/main.go:21.14,22.13 1 1
+gotour/ch18Testing/main.go:23.10,24.43 1 1
